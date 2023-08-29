@@ -11,14 +11,14 @@ Python 3 is the only requirement for this program.
 
 
 ## Installation
-How to use
+How to use:
 
 ```bash
   python JourneyToXaero.py
 ```
-The insert the input folder, for example: `C:\Users\agusmarmor\AppData\Roaming\.minecraft\journeymap\data\mp\coolserver`.
-And then the output folder:
-`C:\Users\agusmarmor\AppData\Roaming\.minecraft\XaeroWaypoints\Multiplayer_coolserver`
+The insert the input folder, for example: `C:\Users\agusmarmor\AppData\Roaming\.minecraft\journeymap\data\mp\coolserver`. 
+
+And then the output folder: `C:\Users\agusmarmor\AppData\Roaming\.minecraft\XaeroWaypoints\Multiplayer_coolserver`
 
 ## Contributing
 

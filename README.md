@@ -24,7 +24,7 @@ And then the output folder: `C:\Users\agusmarmor\AppData\Roaming\.minecraft\Xaer
 
 Contributions are always welcome!
 
-Please make a pull requrest If you would like to add some features of your own!
+Please make a pull request If you would like to add some features of your own!
 
 
 ## Support
